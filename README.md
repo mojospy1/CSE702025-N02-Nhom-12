@@ -1,4 +1,4 @@
-# Mini-shopping-app
+# Gym-Manager
 # Thành viên nhóm
 | STT | Họ và Tên             | Mã sinh viên | Email Phenikaa                            | Email cá nhân (nếu có)             |
 |-----|------------------------|--------------|--------------------------------------------|------------------------------------|
