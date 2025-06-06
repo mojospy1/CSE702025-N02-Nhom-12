@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author khoitran
+ * @author 
  */
 public abstract class qlpgDAO<EntityType, KeyType> {
 

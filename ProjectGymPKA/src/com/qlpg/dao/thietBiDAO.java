@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author khoitran
+ * @author
  */
 public class thietBiDAO extends qlpgDAO<ThietBi, String> {
 

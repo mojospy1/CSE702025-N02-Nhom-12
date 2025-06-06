@@ -6,7 +6,7 @@ package com.qlpg.dao;
 
 /**
  *
- * @author khoitran
+ * @author 
  */
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -27,7 +27,7 @@ import java.util.List;
 
 /**
  *
- * @author khoitran
+ * @author 
  */
 public class nguoiDungDAO extends qlpgDAO<NguoiDung, String> {
 

@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author khoitran
+ * @author 
  */
 public class HocVienDAO extends qlpgDAO<HocVien, String> {
 
