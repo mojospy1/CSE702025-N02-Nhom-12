@@ -10,10 +10,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class JdbcHelper {
-    private static String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-    private static String url = "jdbc:sqlserver://localhost:1433;database=qqq;encrypt=false";
-    private static String user = "sa";
-    private static String pass = "songlong";
+    private static String driver = "";
+    private static String url = "";
+    private static String user = "";
+    private static String pass = "";
      static {
         try {
             Class.forName(driver);
