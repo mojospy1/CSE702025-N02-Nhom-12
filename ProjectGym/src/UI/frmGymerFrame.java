@@ -451,7 +451,7 @@ public class frmGymerFrame extends javax.swing.JFrame {
         txtIntro1.setEditable(false);
         txtIntro1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         txtIntro1.setFont(new java.awt.Font("Times New Roman", 3, 14)); // NOI18N
-        txtIntro1.setText("                                                                                       Quản lý phòng gym\n\n - Giúp phòng gym hoạt động hiệu quả nhất, chủ phòng tập cần có một giải pháp hỗ trợ quản lý phòng gym của mình.  giúp chủ phòng gym quản lý tốt phòng gym của mình\n-Giao diện thân thiện, đơn giản, dễ sử dụng, khả năng tùy chỉnh cao, có thể sửa đổi cho phù hợp với tất cả các mô hình phòng tập gym, có thể thay đổi linh hoạt để đáp ứng nhu cầu từ phía phòng tập\n-Đây cũng coi là phần mềm tối ưu, toàn diện nhất để đáp ứng nhu cầu quản lý phòng gym.Với nhiều tính năng tùy chỉnh linh hoạt không theo bất kì khuôn mẫu nào.\n-Phần mềm giúp quản lý phòng tập gym giúp bạn  dễ dàng nắm được tình trạng của Hội viên, Huấn luyện viên, các khóa học, kiểm soát, theo dõi báo cáo doanh thu và các khoản thanh toán một cách chi tiết và chính xác.\n\n                                                                                          4T Gym & Fitness LUÔN BÊN BẠN!\n");
+        txtIntro1.setText("                                                                                       Quản lý phòng gym\n\n - Giúp phòng gym hoạt động hiệu quả nhất, chủ phòng tập cần có một giải pháp hỗ trợ quản lý phòng gym của mình.  giúp chủ phòng gym quản lý tốt phòng gym của mình\n-Giao diện thân thiện, đơn giản, dễ sử dụng, khả năng tùy chỉnh cao, có thể sửa đổi cho phù hợp với tất cả các mô hình phòng tập gym, có thể thay đổi linh hoạt để đáp ứng nhu cầu từ phía phòng tập\n-Đây cũng coi là phần mềm tối ưu, toàn diện nhất để đáp ứng nhu cầu quản lý phòng gym.Với nhiều tính năng tùy chỉnh linh hoạt không theo bất kì khuôn mẫu nào.\n-Phần mềm giúp quản lý phòng tập gym giúp bạn  dễ dàng nắm được tình trạng của Hội viên, Huấn luyện viên, các khóa học, kiểm soát, theo dõi báo cáo doanh thu và các khoản thanh toán một cách chi tiết và chính xác.\n\n                                                                                           Gym & Fitness LUÔN BÊN BẠN!\n");
         txtIntro1.setCaretColor(new java.awt.Color(255, 255, 255));
         txtIntro1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -490,7 +490,7 @@ public class frmGymerFrame extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 51));
-        jLabel3.setText("CHÀO MỪNG BẠN ĐẾN VỚI HỆ THỐNG CỦA 4T Gym & Fitness");
+        jLabel3.setText("CHÀO MỪNG BẠN ĐẾN VỚI HỆ THỐNG CỦA Gym & Fitness");
         pnlHT.add(jLabel3);
         jLabel3.setBounds(230, 50, 480, 17);
 
